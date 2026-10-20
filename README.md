@@ -1,6 +1,6 @@
 # PokkaTomo（波卡朋友）
 
-一隻住在你 Mac 裡的原創可愛角色。可以文字與語音聊天、有自己的個性、會記得你說過的事，還可以養好幾隻各自獨立的角色。
+一位住在你 Mac 裡的原創可愛夥伴。可以文字與語音聊天、有自己的個性、會記得你說過的事，還可以養好幾隻各自獨立的角色。
 全部在你的電腦上運行：沒有帳號、沒有伺服器、不需付費。
 
 An original character companion that lives on your Mac. Chat by text or voice, and it remembers you. Everything runs on-device — no account, no server, free.

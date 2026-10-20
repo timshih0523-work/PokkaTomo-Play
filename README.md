@@ -5,6 +5,11 @@
 
 An original bear companion that lives on your Mac. Chat by text or voice, and it remembers you. Everything runs on-device — no account, no server, free.
 
+<p align="center">
+  <img src="screenshots/teddy.png" width="240" alt="泰迪熊">
+  <img src="screenshots/panda.png" width="240" alt="熊貓">
+</p>
+
 ## 下載
 到右邊的 **Releases** 下載最新的 `PokkaTomo-mac-*.zip`（第一個版本準備中）。
 第一次打開需要多一個步驟，請看 [HOW-TO-OPEN.md](HOW-TO-OPEN.md)。

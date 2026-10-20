@@ -3,7 +3,7 @@
 Copyright (c) 2026 timshih0523-work. 保留所有權利。
 
 適用範圍：`art-source/`、各角色圖片與動畫素材、角色名稱與外觀設計、
-人格設定、熊的台詞（`Lines.xcstrings`）、App 圖示與名稱「PokkaTomo」。
+人格設定、角色台詞（`Lines.xcstrings`）、App 圖示與名稱「PokkaTomo」。
 
 未經書面同意，不得：
 - 轉載、重新散布或上傳到其他平台
